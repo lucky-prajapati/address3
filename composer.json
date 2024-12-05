@@ -1,0 +1,18 @@
+{
+    "name": "luckyprajpati/address3",
+    "require": {
+        "ext-mysqlnd": "^0.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luckyprajpati\\Address3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Santosh kumar",
+            "email": "lucky1999mfp@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
